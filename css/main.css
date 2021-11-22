@@ -1,0 +1,110 @@
+body {
+    background: black;
+}
+
+.desktop-player-image
+{
+    margin-top: 3.5em;
+    margin-left: 1.5em;
+}
+
+.desktop-player-image img
+{
+    width: 650px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
+
+.desktop-player-information-container
+{
+    margin-top: 3.5em;
+}
+
+.desktop-player-information-container h1
+{
+    color: #FFB700;
+    font-size: 4em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-right: 1.5em;
+}
+
+.desktop-player-information
+{
+    border: 1px solid #FFB700;
+    width: 260px;
+    height: 45px;
+
+    margin-bottom: 1.5em;
+    margin-top: 2.5em;
+}
+
+.desktop-player-information img
+{
+    width: 50px;
+    height: 30px;
+    margin-bottom: 5.5px;
+}
+
+.desktop-player-information h2
+{
+    color:white;
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.desktop-player-history
+{
+    color: white;
+    font-size: 1.25em;
+    text-transform: uppercase;
+
+    margin-top: 1.5em;
+    border: 1px solid #FFB700;
+    text-align: center;
+}
+
+.desktop-player-stats-container
+{
+    margin-top: 4.5em;
+    margin-left: 5.5em;
+}
+
+.desktop-player-stats-container h2
+{
+    color: white;
+    text-transform: uppercase;
+}
+
+.player-stats-desktop
+{
+    border: 1px solid #FFB700;
+    width: 300px;
+
+    margin-bottom: 1.5em;
+}
+
+.player-stats-desktop h2
+{
+    margin-right: 1.5em;
+}
+
+.desktop-social-media
+{
+    border: 1px solid #FFB700;
+    width: 400px;
+}
+
+.desktop-social-media img
+{
+    filter: invert(100%);
+    width: 50px;
+}
+
+.desktop-social-media h1
+{
+    color: white;
+    font-size: 3em;
+    text-transform: uppercase;
+}

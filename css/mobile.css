@@ -1,0 +1,240 @@
+/* Mobile Version */
+
+.profile-picture-mobile
+{
+    margin-top: 1.75em;
+}
+
+.profile-picture-mobile h1
+{
+    color: #FFB700;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2em;
+}
+
+.profile-picture-mobile img
+{
+    width: 200px;
+    
+    filter: grayscale(100%);
+    border-radius: 50%;
+}
+
+
+.player-container
+{
+    margin-top: 1em;
+}
+
+.player-container h1
+{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.box-player-information img
+{
+    width: 25px;
+    margin-bottom: 3.5px;
+    margin-left: 3.5px;
+}
+
+.box-player-information
+{
+    width: 175px;
+}
+
+.player-container h2
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.25em;
+    margin-top: 5px;
+    margin-left: 7.5px;
+    text-align: center;
+}
+
+.player-history-container-mobile
+{
+    margin-top: 2em;
+}
+
+.player-history-container-mobile p
+{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    letter-spacing: 2.5px;
+}
+
+.box-player-stats
+{
+    margin-top: 10px;
+}
+
+.icon-container-mobile img
+{
+    width: 25px;
+    margin-top: 3px;
+}
+
+.border-stats
+{
+    border: 1px solid #FFB700;
+    width: 200px;
+}
+
+.social-media-mobile
+{
+    margin-top: 15px;
+    border:1px solid #FFB700;
+    width: 200px;
+    text-align: center;
+}
+
+.social-media-mobile h2
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.social-media-mobile img
+{
+    filter: invert(100%);
+    width: 35px;
+    margin-left: 10px;
+}
+
+/* Tablet Version */
+
+.player-profile-image-tablet
+{
+    margin-top: 2.5em;
+    margin-left: 1.5em;
+}
+
+.player-profile-image-tablet img
+{
+    width: 275px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
+
+.player-profile-title-tablet
+{
+    margin-top: 1.25em;
+}
+
+.player-profile-title-tablet h1
+{
+    color: #FFB700;
+    font-size: 2.75em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.player-profile-title-tablet li
+{
+    color: white;
+    text-transform: uppercase;
+    margin-top: 1.25em;
+}
+
+.player-profile-title-tablet h4
+{
+    font-size: 1.25em;
+}
+
+.box-player-title h4
+{
+    border: 1px solid #FFB700;
+    width: 165px;
+    text-align: center;
+}
+
+.box-player-title img
+{
+    width: 25.5px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+}
+
+.player-description-table
+{
+    margin-top: 1.5em;
+    border: 1px solid #FFB700;
+}
+
+.player-description-table p
+{
+    text-transform: uppercase;
+    font-size: 0.75em;
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+}
+
+.player-stats-container-table
+{
+    margin-top: 2.5em;
+}
+
+.player-stats-string-tablet h4
+{
+    color: white;
+    text-transform: uppercase;
+}
+
+.player-stats-string-tablet li
+{
+    margin-top: 1.5em;
+}
+
+.social-media-tablet
+{
+    margin-top: 4.5em;
+
+    border: 1px solid #FFB700;
+    width: 300px;
+}
+
+.social-media-tablet h4
+{
+    color: white;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.social-media-tablet img
+{
+    filter: invert(100%);
+    width: 65px;
+}
+
+.social-media-tablet li
+{
+    margin-left: 1.5em;
+    margin-bottom: 15px;
+}
+
+
+/* Common */
+
+.navigation-bar-mobile-tablet h1, a
+{
+    color:white;
+    font-size: 1.15em;
+    text-decoration: none;
+}
+
+.navigation-bar-mobile-tablet li
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
