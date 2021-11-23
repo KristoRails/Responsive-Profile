@@ -54,3 +54,11 @@
         font-size: 0.3em;
     }
 }
+
+@media (max-width:1024px)
+{
+    .desktop-container
+    {
+        display: none;
+    }
+}
