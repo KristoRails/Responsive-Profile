@@ -107,4 +107,11 @@ body {
     color: white;
     font-size: 3em;
     text-transform: uppercase;
+    text-align: center;
+}
+
+.desktop-social-media li
+{
+    margin-left: 2.5em;
+    margin-bottom: 0.75em;
 }
